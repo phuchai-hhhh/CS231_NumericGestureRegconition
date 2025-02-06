@@ -1,0 +1,23 @@
+Testing orientations=2, pixels_per_cell=(4, 4), cells_per_block=(2, 2)
+Best accuracy: 0.7607694764513673
+Testing orientations=2, pixels_per_cell=(4, 4), cells_per_block=(3, 3)
+Best accuracy: 0.7984165786305677
+Testing orientations=2, pixels_per_cell=(8, 8), cells_per_block=(2, 2)
+Best accuracy: 0.8409969781097215
+Testing orientations=2, pixels_per_cell=(4, 4), cells_per_block=(4, 4)
+Best accuracy: 0.8494214185686559
+Testing orientations=2, pixels_per_cell=(8, 8), cells_per_block=(3, 3)
+Best accuracy: 0.8840982237181535
+Testing orientations=2, pixels_per_cell=(8, 8), cells_per_block=(4, 4)
+Best accuracy: 0.9058939144534801
+Testing orientations=2, pixels_per_cell=(16, 16), cells_per_block=(2, 2)
+Best accuracy: 0.8221838685109205
+Testing orientations=2, pixels_per_cell=(16, 16), cells_per_block=(3, 3)
+Best accuracy: 0.8583495074073164
+Testing orientations=2, pixels_per_cell=(16, 16), cells_per_block=(4, 4)
+Best accuracy: 0.8637889099083604
+
+Testing orientations=6, pixels_per_cell=(4, 4), cells_per_block=(2, 2)
+Best accuracy: 0.8628024961305062
+Testing orientations=6, pixels_per_cell=(4, 4), cells_per_block=(3, 3)
+Best accuracy: 0.8741923199764144

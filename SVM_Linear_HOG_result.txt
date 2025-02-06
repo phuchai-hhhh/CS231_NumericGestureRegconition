@@ -1,0 +1,135 @@
+Kernel Linear
+Testing orientations=2, pixels_per_cell=(16, 16), cells_per_block=(2, 2)
+Best accuracy: 0.8152433481561555
+Testing orientations=2, pixels_per_cell=(16, 16), cells_per_block=(3, 3)
+Best accuracy: 0.8548755619978872
+Testing orientations=2, pixels_per_cell=(16, 16), cells_per_block=(4, 4)
+Best accuracy: 0.868239441810186
+Testing orientations=2, pixels_per_cell=(8, 8), cells_per_block=(2, 2)
+Best accuracy: 0.8261516350146181
+Testing orientations=2, pixels_per_cell=(8, 8), cells_per_block=(3, 3)
+Best accuracy: 0.877165073827482
+Testing orientations=2, pixels_per_cell=(8, 8), cells_per_block=(4, 4)
+Best accuracy: 0.8746910547134117
+Testing orientations=2, pixels_per_cell=(4, 4), cells_per_block=(2, 2)
+Best accuracy: 0.7523536348672089
+Testing orientations=2, pixels_per_cell=(4, 4), cells_per_block=(3, 3)
+Best accuracy: 0.8147507554725696
+Testing orientations=2, pixels_per_cell=(4, 4), cells_per_block=(4, 4)
+Best accuracy: 0.8301132594649043
+
+Testing orientations=6, pixels_per_cell=(16, 16), cells_per_block=(2, 2)
+Best accuracy: 0.8989558509200796
+Testing orientations=6, pixels_per_cell=(16, 16), cells_per_block=(3, 3)
+Best accuracy: 0.9009434194039752
+Testing orientations=6, pixels_per_cell=(16, 16), cells_per_block=(4, 4)
+Best accuracy: 0.8949954548804756
+Testing orientations=6, pixels_per_cell=(8, 8), cells_per_block=(2, 2)
+Best accuracy: 0.8870820332653613
+Testing orientations=6, pixels_per_cell=(8, 8), cells_per_block=(3, 3)
+Best accuracy: 0.9049062722649437
+Testing orientations=6, pixels_per_cell=(8, 8), cells_per_block=(4, 4)
+Best accuracy: 0.9113345453652066
+Testing orientations=6, pixels_per_cell=(4, 4), cells_per_block=(2, 2)
+Best accuracy: 0.8613148907942904
+Testing orientations=6, pixels_per_cell=(4, 4), cells_per_block=(3, 3)
+Best accuracy: 0.8687344913151364
+Testing orientations=6, pixels_per_cell=(4, 4), cells_per_block=(4, 4)
+Best accuracy: 0.8741947767977789
+
+Testing orientations=9, pixels_per_cell=(16, 16), cells_per_block=(2, 2)
+Best accuracy: 0.9083617915141391
+Testing orientations=9, pixels_per_cell=(16, 16), cells_per_block=(3, 3)
+Best accuracy: 0.9138171633540526
+Testing orientations=9, pixels_per_cell=(16, 16), cells_per_block=(4, 4)
+Best accuracy: 0.9162948677001695
+Testing orientations=9, pixels_per_cell=(8, 8), cells_per_block=(2, 2)
+Best accuracy: 0.8850981500135126
+Testing orientations=9, pixels_per_cell=(8, 8), cells_per_block=(3, 3)
+Best accuracy: 0.9088752671793234
+Testing orientations=9, pixels_per_cell=(8, 8), cells_per_block=(4, 4)
+Best accuracy: 0.9113357737758887
+Testing orientations=9, pixels_per_cell=(4, 4), cells_per_block=(2, 2)
+Best accuracy: 0.8632963172247745
+Testing orientations=9, pixels_per_cell=(4, 4), cells_per_block=(3, 3)
+Best accuracy: 0.8652703731911652
+Testing orientations=9, pixels_per_cell=(4, 4), cells_per_block=(4, 4)
+Best accuracy: 0.8910240031447314
+
+Testing orientations=12, pixels_per_cell=(16, 16), cells_per_block=(2, 2)
+Best accuracy: 0.9078716556519175
+Testing orientations=12, pixels_per_cell=(16, 16), cells_per_block=(3, 3)
+Best accuracy: 0.9049013586222145
+Testing orientations=12, pixels_per_cell=(16, 16), cells_per_block=(4, 4)
+Best accuracy: 0.9048976733901679
+Testing orientations=12, pixels_per_cell=(8, 8), cells_per_block=(2, 2)
+Best accuracy: 0.8855931995184629
+Testing orientations=12, pixels_per_cell=(8, 8), cells_per_block=(3, 3)
+Best accuracy: 0.9014384689089256
+Testing orientations=12, pixels_per_cell=(8, 8), cells_per_block=(4, 4)
+Best accuracy: 0.9073692356828735
+Testing orientations=12, pixels_per_cell=(4, 4), cells_per_block=(2, 2)
+Best accuracy: 0.8633049160995505
+Testing orientations=12, pixels_per_cell=(4, 4), cells_per_block=(3, 3)
+Best accuracy: 0.8687492322433237
+Testing orientations=12, pixels_per_cell=(4, 4), cells_per_block=(4, 4)
+Best accuracy: 0.8875758543596295
+
+Kernel RBF
+Testing orientations=2, pixels_per_cell=(4, 4), cells_per_block=(2, 2)
+Best accuracy: 0.7607694764513673
+Testing orientations=2, pixels_per_cell=(4, 4), cells_per_block=(3, 3)
+Best accuracy: 0.7984165786305677
+Testing orientations=2, pixels_per_cell=(8, 8), cells_per_block=(2, 2)
+Best accuracy: 0.8409969781097215
+Testing orientations=2, pixels_per_cell=(4, 4), cells_per_block=(4, 4)
+Best accuracy: 0.8494214185686559
+Testing orientations=2, pixels_per_cell=(8, 8), cells_per_block=(3, 3)
+Best accuracy: 0.8840982237181535
+Testing orientations=2, pixels_per_cell=(8, 8), cells_per_block=(4, 4)
+Best accuracy: 0.9058939144534801
+Testing orientations=2, pixels_per_cell=(16, 16), cells_per_block=(2, 2)
+Best accuracy: 0.8221838685109205
+Testing orientations=2, pixels_per_cell=(16, 16), cells_per_block=(3, 3)
+Best accuracy: 0.8583495074073164
+Testing orientations=2, pixels_per_cell=(16, 16), cells_per_block=(4, 4)
+Best accuracy: 0.8637889099083604
+
+Testing orientations=6, pixels_per_cell=(8, 8), cells_per_block=(2, 2)
+Best parameters: {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+Best accuracy: 0.9006135575225608
+Testing orientations=6, pixels_per_cell=(8, 8), cells_per_block=(3, 3)
+Best parameters: {'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+Best accuracy: 0.9175079935311038
+Testing orientations=6, pixels_per_cell=(16, 16), cells_per_block=(2, 2)
+Best parameters: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+Best accuracy: 0.920986877029246
+Testing orientations=6, pixels_per_cell=(16, 16), cells_per_block=(3, 3)
+Best parameters: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+Best accuracy: 0.9428527338493635
+
+Testing orientations=9, pixels_per_cell=(8, 8), cells_per_block=(2, 2)
+Best parameters: {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+Best accuracy: 0.9011098354381936
+Testing orientations=9, pixels_per_cell=(8, 8), cells_per_block=(3, 3)
+Best parameters: {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+Best accuracy: 0.9155204128242165
+Testing orientations=9, pixels_per_cell=(16, 16), cells_per_block=(2, 2)
+Best parameters: {'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+Best accuracy: 0.925455847314297
+Testing orientations=9, pixels_per_cell=(16, 16), cells_per_block=(3, 3)
+Best parameters: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf'}
+Best accuracy: 0.9393750848733997
+
+Testing orientations=12, pixels_per_cell=(8, 8), cells_per_block=(2, 2)
+Best parameters: {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+Best accuracy: 0.9021036257916375
+Testing orientations=12, pixels_per_cell=(8, 8), cells_per_block=(3, 3)
+Best parameters: {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}
+Best accuracy: 0.9150216658642272
+Testing orientations=12, pixels_per_cell=(16, 16), cells_per_block=(2, 2)
+Best parameters: {'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+Best accuracy: 0.9299235830771699
+Testing orientations=12, pixels_per_cell=(16, 16), cells_per_block=(3, 3)
+Best parameters: {'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}
+Best accuracy: 0.9348950038887448
