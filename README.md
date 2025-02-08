@@ -1,5 +1,13 @@
 # CS231 Numeric Gesture Recognition
 
+## 👥 Group Members  
+
+- **Nguyễn Trần Khương An**
+- **Hồng Phúc Hải**  
+- **Tăng Mỹ Hân**
+
+---
+
 ## Introduction
 
 This project focuses on recognizing digits in hand signs to assist hearing-impaired individuals in daily communication. It serves as a foundation for more complex research and applications, such as translating sign language into sentences or paragraphs.
@@ -55,23 +63,23 @@ The project includes a demo showcasing model predictions on the test dataset. Co
 
 ## References
 
-[1] Paper: Visual Categorization with Bags of Keypoints Gabriella Csurka, Christopher R. Dance, Lixin Fan, Jutta Willamowski, Cédric Bray Xerox Research Centre Europe 6, chemin de Maupertuis 38240 Meylan, France
+[1] Paper: **Visual Categorization with Bags of Keypoints** Gabriella Csurka, Christopher R. Dance, Lixin Fan, Jutta Willamowski, Cédric Bray Xerox Research Centre Europe 6, chemin de Maupertuis 38240 Meylan, France
 
-[2] Paper: Hand Gesture Recognition via Bag of Visual Words Guoming Chen ,Qiang Chen ,Yiqun Chen,Xiongyong Zhu Department of Computer Science, Guangdong University of Education Guangdong 510303,China
+[2] Paper: **Hand Gesture Recognition via Bag of Visual Words** Guoming Chen ,Qiang Chen ,Yiqun Chen,Xiongyong Zhu Department of Computer Science, Guangdong University of Education Guangdong 510303,China
 
-[3] Paper: Hand Gesture Recognition Using Bag-of-Features and Multi-Class Support Vector Machine Nasser Dardas, Qing Chen, Nicolas D. Georganas, Fellow, IEEE, and Emil M. Petriu, Fellow, IEEE
+[3] Paper: **Hand Gesture Recognition Using Bag-of-Features and Multi-Class Support Vector Machine** Nasser Dardas, Qing Chen, Nicolas D. Georganas, Fellow, IEEE, and Emil M. Petriu, Fellow, IEEE
 
-[4] Paper: Hand Gesture Recognition using Support Vector Machine and Bag of Visual Words model Vipul Mehra May 13, 2018
+[4] Paper: **Hand Gesture Recognition using Support Vector Machine and Bag of Visual Words model** Vipul Mehra May 13, 2018
 
-[5] Paper: Object Recognition from Local Scale-Invariant Features David G. Lowe Computer Science Department University of British Columbia Vancouver, B.C., V6T 1Z4, Canada
+[5] Paper: **Object Recognition from Local Scale-Invariant Features** David G. Lowe Computer Science Department University of British Columbia Vancouver, B.C., V6T 1Z4, Canada
 
-[6] https://www.pinecone.io/learn/series/image-search/bag-of-visual-words/
+[6] **https://www.pinecone.io/learn/series/image-search/bag-of-visual-words/**
 
-[7] github: https://github.com/talhaimran96/Image-features-Detection-and-Matching-Image-Classification-UsingBag-of-Visual-Words/tree/main
+[7] github: **https://github.com/talhaimran96/Image-features-Detection-and-Matching-Image-Classification-UsingBag-of-Visual-Words/tree/main**
 
-[8] Paper: Cortes, Corinna; Vapnik, Vladimir (1995). "Support-vector networks" (PDF)
+[8] Paper: Cortes, Corinna; Vapnik, Vladimir (1995). **"Support-vector networks"** (PDF)
 
-[9] Navneet Dalal and Bill Triggs. Histograms of oriented gradients for human detection. IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR), 1:886–893, 2005 
+[9] Navneet Dalal and Bill Triggs. **Histograms of oriented gradients for human detection.** IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR), 1:886–893, 2005 
 
 ## Contact
 
