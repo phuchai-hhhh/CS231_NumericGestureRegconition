@@ -59,7 +59,7 @@ We experimented with three machine learning models for classification:
 
 ## Demo
 
-[![Watch the video]]([https://www.youtube.com/watch?v=_5tFXJQIzi4](https://www.youtube.com/watch?v=p8tA5KuV5Lc))
+[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
 
 ## References
 
