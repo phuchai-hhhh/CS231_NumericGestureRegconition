@@ -2,9 +2,9 @@
 
 ## 👥 Group Members  
 
-- **Nguyễn Trần Khương An**
-- **Hồng Phúc Hải**  
-- **Tăng Mỹ Hân**
+- Nguyễn Trần Khương An
+- Hồng Phúc Hải
+- Tăng Mỹ Hân
 
 ---
 
