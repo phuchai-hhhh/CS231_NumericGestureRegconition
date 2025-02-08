@@ -59,7 +59,7 @@ We experimented with three machine learning models for classification:
 
 ## Demo
 
-[![Watch the video]()](https://github.com/phuchai-hhhh/CS231_NumericGestureRegconition/blob/656fffc46df354d1e546d42b04b101b3c1ede27e/Video_Demo.mp4)
+[![Watch the video]()](Video_Demo.mp4)
 
 ## References
 
